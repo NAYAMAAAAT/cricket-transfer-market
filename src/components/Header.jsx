@@ -1,5 +1,5 @@
-
-const Header = () => {
+import PropTypes from 'prop-types';
+const Header = ({ claimCoin }) => {
     return (
     <div  className="flex justify-between w-11/12 mt-12 items-center mx-auto">
      
@@ -14,7 +14,7 @@ const Header = () => {
              
         
         <div>
-            <button className="flex gap-2 items-center border border-solid rounded-xl px-5">
+            <button  className="flex gap-2 items-center border border-solid rounded-xl px-5">${claimCoin}
                 Coin
                 <img className="w-8"src="/src/assets/download.png" />
             </button>
@@ -23,5 +23,7 @@ const Header = () => {
   </div>
     );
 };
-
+Header.propTypes = {
+    claimCoin: PropTypes.number,
+}
 export default Header;
