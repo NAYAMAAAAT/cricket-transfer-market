@@ -1,0 +1,82 @@
+[
+    {
+      "id": 1,
+      "name": "Virat Kohli",
+      "country": "India",
+      "img":   "https://i.ibb.co.com/x68rQsG/steve-smith-cricket-star-player-plqsoal1luugiyt3.jpg",
+      "role": "Batsman",
+      "battingType": "Right-handed",
+      "bowlingType": "Not Available",
+      "price": 1500000
+    },
+    {
+      "id": 2,
+      "name": "Babar Azam",
+      "country": "Pakistan",
+      "img":  "https://i.ibb.co.com/x68rQsG/steve-smith-cricket-star-player-plqsoal1luugiyt3.jpg",
+      "role": "Batsman",
+      "battingType": "Right-handed",
+      "bowlingType": "Not Available",
+      "price": 1200000
+    },
+    {
+      "id": 3,
+      "name": "Steve Smith",
+      "country": "Australia",
+      "img":  "https://i.ibb.co.com/x68rQsG/steve-smith-cricket-star-player-plqsoal1luugiyt3.jpg",
+      "role": "Batsman",
+      "battingType": "Right-handed",
+      "bowlingType": "Not Available",
+      "price": 1300000
+    },
+    {
+      "id": 4,
+      "name": "Jasprit Bumrah",
+      "country": "India",
+      "img": "https://i.ibb.co.com/x68rQsG/steve-smith-cricket-star-player-plqsoal1luugiyt3.jpg",
+      "role": "Bowler",
+      "battingType": "Right-handed",
+      "bowlingType": "Fast",
+      "price": 1400000
+    },
+    {
+      "id": 5,
+      "name": "Kane Williamson",
+      "country": "New Zealand",
+      "img":  "https://i.ibb.co.com/x68rQsG/steve-smith-cricket-star-player-plqsoal1luugiyt3.jpg",
+      "role": "Batsman",
+      "battingType": "Right-handed",
+      "bowlingType": "Not Available",
+      "price": 1250000
+    },
+    {
+      "id": 6,
+      "name": "Ben Stokes",
+      "country": "England",
+      "img": "https://i.ibb.co.com/x68rQsG/steve-smith-cricket-star-player-plqsoal1luugiyt3.jpg",
+      "role": "All-rounder",
+      "battingType": "Left-handed",
+      "bowlingType": "Fast-medium",
+      "price": 1600000
+    },
+    {
+      "id": 7,
+      "name": "Rashid Khan",
+      "country": "Afghanistan",
+      "img": "https://i.ibb.co.com/x68rQsG/steve-smith-cricket-star-player-plqsoal1luugiyt3.jpg",
+      "role": "Bowler",
+      "battingType": "Right-handed",
+      "bowlingType": "Leg-spin",
+      "price": 1100000
+    },
+    {
+      "id": 8,
+      "name": "David Warner",
+      "country": "Australia",
+      "img": "https://i.ibb.co.com/x68rQsG/steve-smith-cricket-star-player-plqsoal1luugiyt3.jpg",
+      "role": "Batsman",
+      "battingType": "Left-handed",
+      "bowlingType": "Not Available",
+      "price": 1400000
+    }
+  ]
