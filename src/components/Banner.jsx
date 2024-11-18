@@ -5,7 +5,7 @@ import PropTypes from 'prop-types';
 
 const Banner = ({ handleClaimCoin }) => {
     const notify1 = () => {
-        toast.success("Success Claim !", {
+        toast.success("Success Claim ", {
             position: "top-center"
         });
     }
